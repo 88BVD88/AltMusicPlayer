@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="current_track">Current track:</string>
+    <string name="current_track_template">Current track: %1$s</string>
+    <string name="no_song_selected">No song selected</string>
+
+
+    <string name="description_vinyl_avatar">Vinyl Avatar</string>
+
+    <string-array name="upcoming_tracks">
+        <item>Next Song</item>
+        <item>Second Next Song</item>
+        <item>Third Next Song</item>
+    </string-array>
+
+
+    <string name="description_button_previous">Previous track</string>
+    <string name="description_button_play">Play or pause track</string>
+    <string name="description_button_next">Next track</string>
+    <string name="description_button_shuffle">Shuffle tracks</string>
+    <string name="description_button_repeat">Repeat track</string>
+</resources>

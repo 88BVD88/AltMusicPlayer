@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.AltMusicPlayer" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary branding color. -->
+        <item name="colorPrimary">@color/color1</item>
+        <item name="colorPrimaryVariant">@color/color2</item>
+        <item name="colorOnPrimary">@color/color4</item>
+
+        <!-- Secondary branding color. -->
+        <item name="colorSecondary">@color/color3</item>
+        <item name="colorSecondaryVariant">@color/color2</item>
+        <item name="colorOnSecondary">@color/color4</item>
+
+
+    </style>
+</resources>
